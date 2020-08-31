@@ -1,0 +1,24 @@
+{
+  "name": "p3-t1-handling-events-mizsrb",
+  "version": "1.0.0",
+  "description": "Apuntes y ejercicios del capítulo Handling Events de EloquentJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "gh-pages -d _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-mizsrb.git"
+  },
+  "author": "Sara Revilla <sara.revilla.13@ull.edu.es> (http://github.com/mizsrb)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-mizsrb/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-mizsrb#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "dependencies": {}
+}
